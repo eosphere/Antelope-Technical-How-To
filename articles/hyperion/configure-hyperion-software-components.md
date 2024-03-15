@@ -523,4 +523,4 @@ Configure as below, take note of the **#UPDATE#** parameters
 }
 ```
 
-All configuration is now ready to move onto running the Hyperion Indexer and API for the first time, this will be covered in the next  **Hyperion Full History**  article.
+All configuration is now ready to move onto running the Hyperion Indexer and API for the first time, this will be covered in the next  **Hyperion Full History**  guide.
