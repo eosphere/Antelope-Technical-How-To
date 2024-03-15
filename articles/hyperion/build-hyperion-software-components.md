@@ -20,7 +20,7 @@ The process for building each of these primary building blocks is covered below:
 
 ## **State-History (SHIP) Node**
 
-The Hyperion deployment requires access to a fully sync’d WAX State-History Node, the current SHIP recommend version is Leap `v5.0.2`.
+The Hyperion deployment requires access to a fully sync’d State-History Node, the current SHIP recommend version is Leap `v5.0.2`.
 
 ## RabbitMQ
 
@@ -197,4 +197,4 @@ Build Hyperion from  `main`  as below:
 
 After all Hyperion Software Components are built and provisioned you can now proceed to configuration.
 
-The next  **WAX Hyperion Full History**  guide will walk through the technical configuration of each component.
+The next  **Hyperion Full History**  guide will walk through the technical configuration of each component.
